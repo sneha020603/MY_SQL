@@ -112,7 +112,7 @@ Used to combine data from multiple tables.
 ## 🎯 Purpose
 
 * Build strong SQL fundamentals
-* Prepare for **TCS IPA MCQ + Coding rounds**
+* Prepare for **MCQ + Coding rounds**
 * Improve problem-solving using SQL
 * Create a structured revision resource
 
@@ -129,7 +129,6 @@ Used to combine data from multiple tables.
 
 **Sneha Kumari**
 B.Tech CSE (IoT & CS)
-Interested in Cloud ☁️ | DevOps ⚙️ | Data 📊
 
 ---
 
